@@ -27,7 +27,7 @@ const Header = () => {
         component="div"
         sx={{ flexGrow: 1 }}
       >
-        <FastfoodIcon /> Abhi's Kitchen
+        <FastfoodIcon /> My Restro
       </Typography>
       <Divider />
 
